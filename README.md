@@ -1,1 +1,1 @@
-# online-zine
+# online-magazine
